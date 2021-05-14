@@ -13,4 +13,9 @@ public class Person {
     private String email;
 
 
+
+    private String personal;
+
+
+
 }
