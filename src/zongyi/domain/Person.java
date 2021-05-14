@@ -15,7 +15,7 @@ public class Person {
 
 
     private String personal;
-
+    private String sex;
 
 
 }
